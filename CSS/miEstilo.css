@@ -1,0 +1,32 @@
+.logo{
+    height: 48px;
+    width: auto;
+}
+
+header{
+    background-image: url(../images/cb2.jpeg);
+    background-size: cover;
+    height: 100vh;
+}
+
+#inicio-titulo{
+    color: white;
+    margin-top: 32%;
+}
+
+#menu.bi{
+    display: inline-block;
+    width: 72px;
+    height: 72px;
+    line-height: 72px;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.05);
+}
+
+footer a{
+    color: white;
+}
+
+footer a:hover{
+    color: #795548;
+}
